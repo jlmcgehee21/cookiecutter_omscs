@@ -1,0 +1,8 @@
+{
+    "your_name": "Your name",
+    "school_name": "Georgia Tech",
+    "course_number": "CS XXXX",
+    "course_name": "Name of your course",
+    "semester": "FA 2016",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"
+}
