@@ -4,5 +4,5 @@
     "course_number": "CS XXXX",
     "course_name": "Name of your course",
     "semester": "FA 2016",
-    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"
+    "repo_name": "{{ cookiecutter.course_name.lower().replace(' ', '_') }}"
 }
